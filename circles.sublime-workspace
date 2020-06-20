@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newCircle"
+			],
+			[
+				"cir",
+				"circles"
+			],
+			[
+				"ax",
+				"axes"
+			],
+			[
+				"se",
+				"set_yticks"
+			],
+			[
+				"x",
+				"x_grids"
+			],
+			[
+				"set",
+				"set_xticks"
+			],
+			[
+				"sr",
+				"sr"
+			],
+			[
+				"__",
+				"__geo_interface__"
+			],
+			[
+				"g",
+				"__geo_interface__"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"sha",
+				"shapeRecords"
+			],
+			[
+				"f",
+				"field"
+			],
+			[
+				"figh",
+				"fighter"
+			],
+			[
+				"writ",
+				"writerow"
+			],
+			[
+				"cs",
+				"csv_writer"
+			],
+			[
+				"csv",
+				"csv_writer"
+			],
+			[
+				"c",
+				"csv"
+			],
+			[
+				"fighte",
+				"fighters"
+			],
+			[
+				"for",
+				"from"
+			],
+			[
+				"fighter",
+				"fighter"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"range",
+				"range_1"
+			],
+			[
+				"rang",
+				"range_3"
+			],
+			[
+				"r",
+				"range_2"
+			],
+			[
+				"ran",
+				"range_1"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"Wi",
+				"width\tproperty"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"rb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"JAVA",
+				"JAVA_HOME"
+			],
+			[
+				"ema",
+				"emailAddress"
+			],
+			[
+				"get",
+				"getParameter"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"e",
+				"employee"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"pe",
+				"pickedColor"
+			],
+			[
+				"gen",
+				"generateRandomColors"
+			],
+			[
+				"ea",
+				"easyBtn"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"p",
+				"pickColor"
+			],
+			[
+				"ge",
+				"generateRandomColors"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"pic",
+				"pickedColor"
+			],
+			[
+				"pick",
+				"pickColor"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"cli",
+				"clickedColor"
+			],
+			[
+				"squa",
+				"squares"
+			],
+			[
+				"messa",
+				"messageDisplay"
+			],
+			[
+				"h",
+				"highlight"
+			],
+			[
+				"color",
+				"colorDisplay"
+			],
+			[
+				"lis",
+				"lis"
+			],
+			[
+				"res",
+				"reset"
+			],
+			[
+				"winn",
+				"winningScore"
+			],
+			[
+				"wi",
+				"winnigScoreDisplay"
+			],
+			[
+				"win",
+				"winningScore"
+			],
+			[
+				"sc",
+				"scoreKeeper"
+			],
+			[
+				"rese",
+				"resetButton"
+			],
+			[
+				"p2",
+				"p2Score"
+			],
+			[
+				"B",
+				"p2Button"
+			],
+			[
+				"p1",
+				"p1Display"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bo",
+				"bolded"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"d",
+				"delete"
+			],
+			[
+				"to",
+				"todos"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"mr",
+				"mr-sm-2"
+			],
+			[
+				"lorem",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"U",
+				"uppercase\ttext-transform"
+			],
+			[
+				"border-left",
+				"border-left\tproperty"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"border-",
+				"border-width\tproperty"
+			],
+			[
+				"first",
+				"first"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"dogs",
+				"dogs"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"bot",
+				"button\tTag"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"open resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"intall ",
+				"Install Package Control"
+			],
+			[
+				"indentation",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indentat",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ashkan/Desktop/WEB/patatp-clone/assets/circles.css",
+		"/C/Users/Ashkan/Desktop/WEB/patatp-clone/assets/circles.html",
+		"/C/Users/Ashkan/AppData/Roaming/Sublime Text 3/Packages/HTML/HTML.sublime-syntax",
+		"/C/Users/Ashkan/Desktop/Sites/travel-site/package.json",
+		"/C/Users/Ashkan/Desktop/WEB/patatp-clone/assets/paper-full.js",
+		"/C/Users/Ashkan/Desktop/Sites/travel-site/app/index.html",
+		"/C/Users/Ashkan/Desktop/Sites/t-s2/app/index.html",
+		"/C/Users/Ashkan/Desktop/Sites/node-experiment/index2.html",
+		"/C/Users/Ashkan/Desktop/Sites/travel-site/app/assets/styles/modules/_generic-content-container.css",
+		"/C/Users/Ashkan/Desktop/Comp472Assignment/A1_40016643.py",
+		"/C/Users/Ashkan/Desktop/Comp472Assignment/test.py",
+		"/C/Users/Ashkan/Desktop/Comp472Assignment/test/test.py",
+		"/C/Users/Ashkan/Documents/Concordia/2020/summer/COMP472/assignments/a1/submissions/ReadME.txt",
+		"/C/Users/Ashkan/Documents/Concordia/2020/summer/COMP472/assignments/a1/submissions/A1_40016643.py",
+		"/C/Users/Ashkan/Desktop/Python/first_class.py",
+		"/C/Users/Ashkan/Desktop/Python/PlayerCharacter.py",
+		"/C/Users/Ashkan/Documents/Concordia/2020/summer/COMP472/assignments/a1/submissions/crime_dt.cpg",
+		"/C/Users/Ashkan/Documents/Concordia/2020/summer/COMP472/assignments/a1/submissions/crime_dt.dbf",
+		"/C/Users/Ashkan/Documents/Concordia/2020/summer/COMP472/assignments/a1/submissions/crime_dt.prj",
+		"/C/Users/Ashkan/Documents/Concordia/2020/summer/COMP472/assignments/a1/submissions/crime_dt.shp",
+		"/C/Users/Ashkan/Documents/Concordia/2020/summer/COMP472/assignments/a1/submissions/crime_dt.shx",
+		"/C/Users/Ashkan/Desktop/Python/fileIO/scream.py",
+		"/C/Users/Ashkan/Desktop/Python/fileIO/screaming_fighters.csv",
+		"/C/Users/Ashkan/Desktop/Python/fileIO/fighters.csv",
+		"/C/Users/Ashkan/Desktop/Python/fileIO/original.py",
+		"/C/Users/Ashkan/Desktop/Python/fileIO/haha.py",
+		"/C/Users/Ashkan/Desktop/Python/fileIO/writer.py",
+		"/C/Users/Ashkan/Desktop/Python/first_program.py",
+		"/C/Users/Ashkan/Desktop/Python/variablesAndStrings/mileage.py",
+		"/C/Users/Ashkan/Desktop/Noushin`s Web learning/tablee.html",
+		"/C/Users/Ashkan/Desktop/Python/table.html",
+		"/C/Users/Ashkan/Desktop/Noushin`s Web learning/practice.css",
+		"/C/Users/Ashkan/Desktop/Python/dog.html",
+		"/C/Users/Ashkan/Desktop/Noushin`s Web learning/first_program.py",
+		"/C/Users/Ashkan/Desktop/Noushin`s Web learning/practice.html",
+		"/C/Users/Ashkan/Desktop/Noushin`s Web learning/me me.html",
+		"/C/Users/Ashkan/Desktop/Noushin`s Web learning/me me",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/finalExam/Folder 3/QuestionCode/Complex.h",
+		"/C/Users/Ashkan/Desktop/Wix ADI_files/build.css",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/finalExam/Folder 3/QuestionCode/Complex.cpp",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/ExamPrep/ComplexNumber/Complex.cpp",
+		"/C/Users/Ashkan/Desktop/Noushin`s Web learning/myfirstHTML.html",
+		"/C/Users/Ashkan/Desktop/Noushin`s Web learning/img.html",
+		"/C/Users/Ashkan/Desktop/Sites/travel-site/.gitignore",
+		"/C/Users/Ashkan/Desktop/Sites/node-experiment/test.js",
+		"/C/Users/Ashkan/Desktop/Sites/travel-site-files/app/index.html",
+		"/C/Users/Ashkan/Desktop/Sites/node-experiment/index.html",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/Project/Submission/A1/A1_team9/part 5/Resources.cpp",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/Project/Submission/A1/A1_team9/part 5/ResourceDriver.cpp",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/Project/Submission/A1/A1_team9/part 5/Resources.h",
+		"/C/Users/Ashkan/Desktop/Sites/hello-world/index.html",
+		"/C/Users/Ashkan/Desktop/WEB/js/DOM/toDos/toDoList.html",
+		"/C/Users/Ashkan/Desktop/Python/firstProgramm.py",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/Project/OtherGroupWork/COMP345_project-master/code/GBMap/GBMap.cpp",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/Project/OtherGroupWork/COMP345_project-master/code/VGMap/VGMap.cpp",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/Project/CodesAndFiles/COMP345_Project_NewHeaven/Part 2/Part2_NewVersion/Part2_NewVersion.cbp",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/Project/CodesAndFiles/COMP345_Project_NewHeaven/Part 2/Part2_NewVersion/main.cpp",
+		"/C/Users/Ashkan/Documents/Concordia/2020/Winter/COMP_345/Tutorial/T1/vincent/Code/Driver.cpp",
+		"/C/Users/Ashkan/Desktop/delete.js",
+		"/C/Users/Ashkan/Desktop/WEB/js/jQuery/jQueryExercise1.html",
+		"/C/Users/Ashkan/Desktop/WEB/js/jQuery/exercise.js",
+		"/C/Users/Ashkan/Documents/Concordia/2019/FALL/SOEN 387/practice/SOEN387FinalPrep.html",
+		"/C/Users/Ashkan/Desktop/WEB/js/DOM/toDos/toDos.js",
+		"/C/Users/Ashkan/Desktop/WEB/js/DOM/toDos/toDos.css",
+		"/C/Program Files/Java/jre1.8.0_221/lib/ext/tomcat-dbcp.jar",
+		"/C/Users/Ashkan/Desktop/WEB/js/jQuery/jQueryMehtodExercise.html",
+		"/C/Users/Ashkan/Documents/Concordia/2019/FALL/SOEN 387/Assignments/A2/SOEN-387---A2/A2_BookRepo/src/java/database/BookDb.java",
+		"/C/Users/Ashkan/Documents/Concordia/2019/FALL/SOEN 387/Assignments/A2_New/COMP-387---A2-new-/A2/src/java/database/BookRepository.java",
+		"/C/Users/Ashkan/Desktop/WEB/js/jQuery/jQueryMethods.js",
+		"/C/Users/Ashkan/Desktop/WEB/js/jQuery/jQueryDemo.html",
+		"/C/Users/Ashkan/Desktop/WEB/js/DOM/toggle.js",
+		"/C/Users/Ashkan/Desktop/home.jsp",
+		"/C/Users/Ashkan/Documents/GitHub/SOEN-387---A2/A2_BookRepo/build/web/index.html",
+		"/C/Users/Ashkan/Downloads/delete.js",
+		"/C/Users/Ashkan/Documents/Concordia/2019/FALL/COMP 345/project/Repo/COMP345-C-Assignment/src/Map.cpp",
+		"/C/Users/Ashkan/Documents/GitHub/SOEN-387---A2/A2_BookRepo/connect/sqlite-jdbc-3.20.1.jar",
+		"/C/tomcat8/bin/catalina.bat",
+		"/C/Users/tomcat/bin/catalina.bat",
+		"/C/Users/Ashkan/Documents/Concordia/2019/FALL/COMP 345/project/A1/comp345a1/country.cpp",
+		"/C/Users/Ashkan/Documents/Concordia/2019/FALL/SOEN 387/practice/email-list.html",
+		"/C/Users/Ashkan/Documents/Concordia/2019/FALL/SOEN 387/practice/display_email_entry.jsp",
+		"/C/Users/Ashkan/Documents/Concordia/2019/FALL/COMP 345/W 3&4/SlideSet4/SlideSet4.sln",
+		"/C/Users/Ashkan/Desktop/WEB/js/DOM/ColorGame/ColorGame.html",
+		"/C/Users/Ashkan/Desktop/WEB/js/DOM/ColorGame/ColorGame.js",
+		"/C/Users/Ashkan/Desktop/employee.xml",
+		"/C/Users/Ashkan/Desktop/jsp.jsp",
+		"/C/Users/Ashkan/Documents/Concordia/2019/FALL/SOEN 387/Assignments/A1/New folder/MyHTTPServer_EclipsNeon/bin/MyHTTPServer_Class_EclipsNeon.class",
+		"/C/Users/Ashkan/Downloads/1200911166583_org-netbeans-modules-myservermoduletemplate (1).nbm",
+		"/C/Users/Ashkan/Desktop/jsp.html",
+		"/C/Users/Ashkan/Documents/Concordia/2019/FALL/COMP 345/practice/test.cpp",
+		"/C/Users/Ashkan/git/COMP345-Assignment1-master/Cards/Cards.cpp",
+		"/C/Users/Ashkan/git/COMP345-Assignment1-master/Cards/Cards.h",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/ColorGame/ColorGame.css",
+		"/C/Users/Ashkan/Desktop/WEB/js/jQuery/jquery-mini.js",
+		"/C/Users/Ashkan/Desktop/WEB/js/jQuery/jquery.js",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/ColorGame/ColorGame.html",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/ColorGame/ColorGame.js",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/toggle.js",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/toDoList.html",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/toDos.js",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/toDos.css",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/scoreKeeper.html",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/scoreKeeper.js",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/scoreKeeper.css",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/DOM Exercise.html",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/firstDOM.html",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/scoreKeepr.css",
+		"/C/Users/Ashkan/Desktop/Bootstraps/DOM/toggle color.js",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/ArrayProblemSet.js",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/Array problem set.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/list.js",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/list.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/guess game.js",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/Guess game.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/Annoy o matic.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/annoy.js",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/functionFirstProblemSet.js",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/functionFirstProblemSet.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/jsFirstProblemSet.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/file.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/script.js",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/stalker.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/JS/stalker.js",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/CSS/file.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/CSS/photoGrid.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/CSS/My Blog.html",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/CSS/MyBlog.css",
+		"/C/Users/Ashkan/Desktop/Udemy/Web Developer bootstrap/Bootstraps/Bootstraps basics.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "circles.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
